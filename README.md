@@ -6,29 +6,24 @@
 
 *Building AI-native software that makes traditional consultancies nervous.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-
 </div>
 
 ---
 
-### 🧬 The Short Version
+### 🧬 TL:DR
 
-Product manager with a design background who accidentally became the person building things with AI tools instead of just writing specs about them. I lead product at **Rove** — think AI-powered business consultancy for everyone, not just lawyers. Market intelligence that actually makes sense.
+Product manager with a design background who accidentally became the person building things with AI tools instead of just writing specs about them. I lead product at **Rove**. Think AI-powered business consultancy for everyone, not just lawyers. Market intelligence that's actually intelligent.
 
-When I'm not shipping product, I'm probably vibe coding something in **Claude Code**, digging through crates at a record shop, or convincing myself that running 54km counts as a hobby.
-
-Born and raised in Manchester. Coffee-powered. Fuelled by curiosity and a complete inability to leave side projects alone.
+When I'm not shipping product, I'm probably vibe coding something in **Claude Code**, digging through crates at a record shop, or convincing myself that running ultra-marathons & collecting records counts as hobbies. Proudest pull: *3 Feet High and Rising*. Into Portishead, 90s house, dance music, and anything Overmono touches.
 
 ---
 
 ### 🎯 What I Actually Do
 
-- **Product Management** — strategy, roadmaps, the whole thing. But the kind where you also build prototypes at 11pm
-- **Vibe Coding** — Claude Code + Figma → ideas become real things, fast
-- **AI & Agentic Workflows** — designing systems where AI agents do the heavy lifting consultants used to charge £1,200/day for
-- **Design Background** — I came up through graphic & product design, and I still care way too much about spacing
+- **Product Management** — strategy, roadmaps, the whole thing. Product is my passion
+- **Vibe Coding** — Building applications, agents and machine learning models
+- **AI & Agentic Workflows** — designing systems where AI agents do the heavy lifting and automate product management
+- **Design Background** — I came up through graphic & product design, and I still care way too much about padding and fonts
 
 ---
 
@@ -49,16 +44,6 @@ Born and raised in Manchester. Coffee-powered. Fuelled by curiosity and a comple
 
 ---
 
-### 🎧 Beyond the Code
-
-- 🏃 **Ran a 54km ultramarathon** — it was basically a very long, very hilly walk with delusions of grandeur
-- 🎵 **Vinyl collector** — proudest pull: *3 Feet High and Rising*. Into Portishead, 90s house, dance music, and anything Overmono touches
-- ☕ **Coffee snob** in denial
-- 🎨 **Recovering designer** — I don't push pixels anymore but I'll absolutely notice if your padding is off
-- 🌙 **Side project addict** — if it's a free evening, I'm either at a gig or building something I'll never finish
-
----
-
 ### 📊 Stats
 
 <div align="center">
@@ -70,12 +55,6 @@ Born and raised in Manchester. Coffee-powered. Fuelled by curiosity and a comple
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondinosaur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/Mondinosaur/Mondinosaur/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
