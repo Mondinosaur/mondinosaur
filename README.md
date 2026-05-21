@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Harvey 👋
+# 👋
 
 **PM at [Rove](https://github.com/Mondinosaur) · Manchester, UK**
 
